@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DZ8_Ilim_Talgartbekuulu_JS5_12_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-appok" vcs="Git" />
   </component>
 </project>

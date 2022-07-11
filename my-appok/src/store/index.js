@@ -1,12 +1,12 @@
 import {configureStore} from "@reduxjs/toolkit";
-import countReducer from "./countSlice"
+import postSliceReducer from "./postSlice"
 import usersReducer from "./usersSlice"
-import usersListReducer from "./usersListSlice";
+import usersListReducer from "./usersListSlice"
 
 export default configureStore({
     reducer: {
-        countReducer,
         usersReducer,
-        usersListReducer
+        usersListReducer,
+        postSliceReducer
     }
 })
